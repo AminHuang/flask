@@ -1,7 +1,7 @@
 # flask
 flask学习笔记代码
 
-·templates ： Flask学习之二 模板     博客地址：http://www.cnblogs.com/AminHuang/p/4262276.html
+·templates ： <a>Flask学习之二 模板</a>     博客地址：http://www.cnblogs.com/AminHuang/p/4262276.html
  
 ·webforms ：  Flask学习之三 web表单  博客地址：http://www.cnblogs.com/AminHuang/p/4263718.html
 
