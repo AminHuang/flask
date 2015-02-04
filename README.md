@@ -11,3 +11,6 @@ login <a href="http://www.cnblogs.com/AminHuang/p/4267190.html">Flask学习之�
 
 profile <a href="http://www.cnblogs.com/AminHuang/p/4269518.html">学习之六 个人资料和头像</a>
 
+testing <a href="http://www.cnblogs.com/AminHuang/p/4271675.html">Flask学习之七 单元测试</a>
+
+
