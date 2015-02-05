@@ -13,4 +13,4 @@ profile <a href="http://www.cnblogs.com/AminHuang/p/4269518.html">学习之六 �
 
 testing <a href="http://www.cnblogs.com/AminHuang/p/4271675.html">Flask学习之七 单元测试</a>
 
-
+follow <a href="http://www.cnblogs.com/AminHuang/p/4274338.html">Flask学习之八 关注、联系人和好友</a>
